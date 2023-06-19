@@ -3,5 +3,5 @@ Detect spoken language using input from the device's microphone. The main purpos
 Created for Natural Language Processing class at UTSA during spring of 2023.
 
 # Licenses
-Google Translate @ [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)  
-Speech Recognition @ BSD License
+Google Translate - [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)  
+Speech Recognition - BSD License
