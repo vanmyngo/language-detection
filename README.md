@@ -1,5 +1,6 @@
 # Language Detection
-Detect spoken language using input from the device's microphone. The main purpose is to determine language with no knowledge of what language is the speaker speaking in. There are language translation API that input the original language but finding an API to determine what language is someone speaking in is not easy.  
+Developed a real-time language detection and translation system as a personal portfolio project. The system takes input from a microphone and accurately detects the spoken language from a pool of languages. It then automatically translates the phrase into English if it is not already in English. Utilized machine learning algorithms and signal processing techniques to implement the language detection module, achieving high accuracy in identifying the correct language. Integrated popular translation APIs to enable seamless and accurate translation of the detected language into English.  
+The project demonstrates my proficiency in natural language processing, speech recognition, and machine learning. It showcases my ability to develop practical solutions that bridge language barriers, enabling effective communication across different languages.  
 Created for Natural Language Processing class at UTSA during spring of 2023.
 
 # Replication
